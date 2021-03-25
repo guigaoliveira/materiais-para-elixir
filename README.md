@@ -7,7 +7,7 @@ Esse repositório tem como objetivo para ajudar desenvolvedores com materiais pa
 - [Guides da linguagem](https://elixir-lang.org/getting-started/introduction.html)
 
 - [Elixir School](https://elixirschool.com/pt/)
-- 
+
 - [Joy of Elixir](https://joyofelixir.com/)
 
 ## Livros
