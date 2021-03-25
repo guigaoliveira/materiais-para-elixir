@@ -16,6 +16,7 @@ Esse repositório tem como objetivo para ajudar desenvolvedores com materiais pa
  - Adopting Elixir
  - Learn Functional Programming With Elixir
  - Elixir: Do zero à concorrência
+ - Metaprogramming Elixir
  
 ## Para contribuir
 
